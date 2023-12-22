@@ -1,7 +1,9 @@
 ### Hey!! I'm Nickolas Campos
 
 🌱 I’m currently learning Git & GitHub
+
 🔭 I’m currently working on research about cinema and technology
+
 ⚡ Fun fact: I'm an actor, learning and studying cybersecurity
 
 ### contatos
