@@ -2,7 +2,7 @@
 
 🌱 I’m currently studying web development and building practical projects
 
-🔭 I’m working on research about cinema and technology
+🔭 Researching the intersection of cinema and technology
 
 ⚡ Fun fact: I'm an actor, learning web development and cybersecurity
 
