@@ -1,10 +1,10 @@
 ### Hey!! I'm Nickolas Campos
 
-🌱 I’m currently learning Python
+🌱 I’m currently studying web development and building practical projects
 
 🔭 I’m working on research about cinema and technology
 
-⚡ Fun fact: I'm an actor, learning and studying cybersecurity
+⚡ Fun fact: I'm an actor, learning web development and cybersecurity
 
 ### contatos
 <div>
