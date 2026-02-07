@@ -4,8 +4,8 @@
 
 🔭  Researcher exploring the intersections of cinema, technology, and creative innovation 
 
-⚡  Background in finance within the cultural industry and professional performing arts — bringing strong communication, 
-    collaboration, and problem-solving skills to tech
+⚡  Background in finance within the cultural industry and professional performing arts 
+    bringing strong communication, collaboration, and problem-solving skills to tech
 
 🏆  Selected for competitive cultural grants and formally recognized by the Legislative Chamber of Brazil 
     for contributions to the arts and creative research.
