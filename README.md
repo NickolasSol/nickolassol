@@ -1,14 +1,19 @@
 ### Hey!! I'm Nickolas Campos
 
-🌱  Web Developer in training, focused on building practical and scalable projects  
+🌱  Web Developer in training, focused on building practical and scalable projects.
 
-🔭  Researcher exploring the intersections of cinema, technology, and creative innovation 
+🔭  Researcher exploring the intersections of cinema, technology, and creative innovation.
+
+🐾  Current project: Developing a platform to help reunite lost pets with their families, 
+    support adoptions, and connect communities with local shelters.
 
 ⚡  Background in finance within the cultural industry and professional performing arts 
-    bringing strong communication, collaboration, and problem-solving skills to tech
+    bringing strong communication, collaboration, and problem-solving skills to tech.
 
-🏆  Selected for competitive cultural grants and formally recognized by the Legislative Chamber of Brazil 
+🏆  Selected for competitive cultural grants and formally recognized by the Legislative Chamber of the Federal District (Brazil)
     for contributions to the arts and creative research.
+    
+👨🏽‍💻 Actively preparing for my first professional opportunity in web development.
 
 
 ### contatos
