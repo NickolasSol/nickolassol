@@ -1,10 +1,15 @@
 ### Hey!! I'm Nickolas Campos
 
-🌱 I’m currently studying web development and building practical projects
+🌱  Web Developer in training, focused on building practical and scalable projects  
 
-🔭 Researching the intersection of cinema and technology
+🔭  Researcher exploring the intersections of cinema, technology, and creative innovation 
 
-⚡ Fun fact: I'm an actor, learning web development and cybersecurity
+⚡  Background in finance within the cultural industry and professional performing arts — bringing strong communication, 
+    collaboration, and problem-solving skills to tech
+
+🏆  Selected for competitive cultural grants and formally recognized by the Legislative Chamber of Brazil 
+    for contributions to the arts and creative research.
+
 
 ### contatos
 <div>
